@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dayTextView" type="id">id</item>
+    <item name="maxTempTextView" type="id">ID</item>
+    <item name="minTempTextView" type="id">IDTEMPTEXT</item>
+    <item name="weatherCondition" type="id">ID</item>
+</resources>
